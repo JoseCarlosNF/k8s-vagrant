@@ -1,7 +1,9 @@
 <div align="center">
     <h1>k8s-vagrant</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" width=50%></img>
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg" width=30%><img>
+
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg" width=20%><img>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" width=20%></img>
 
 <img src="https://img.shields.io/github/license/JoseCarlosNF/k8s-vagrant?style=for-the-badge"></img>
 
