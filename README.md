@@ -1,8 +1,14 @@
-<div align="center">
+<header align="center">
     <h1>k8s-vagrant</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" width=50%></img>
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg" width=30%><img>
-</div>
+
+<img src="https://img.shields.io/github/license/JoseCarlosNF/k8s-vagrant?style=for-the-badge"></img>
+
+<img src="https://img.shields.io/github/forks/JoseCarlosNF/k8s-vagrant?style=flat-square"></img>
+<img src="https://img.shields.io/github/stars/JoseCarlosNF/k8s-vagrant?style=flat-square"></img>
+<img src="https://img.shields.io/github/issues/JoseCarlosNF/k8s-vagrant?style=flat-square"></img>
+</header>
 
 Provisionamento de cluster kubernetes, modelo bare-metal, para testes. Uma alternativa, ao minikube, mais próxima ao ambiente de produção.
 
